@@ -1,1 +1,1 @@
-# temeparrure-alaram
+# Temperature-alaram
